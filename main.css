@@ -13,6 +13,7 @@ h1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border: 2px grey;
 }
 
 p {
