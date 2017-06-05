@@ -6,6 +6,11 @@ h1 {
     width: 30em;
 }
 
+h4{
+  color: white;
+  margin-left: 10%;
+}
+
 .rotate90{
   transform: rotate(90deg);
   display: block;
