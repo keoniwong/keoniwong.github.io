@@ -20,14 +20,12 @@ h4{
 }
 
 div {
-  display: flex;
-  
+  display: inline-block;
 }
 
 .list-img {
-  flex-direction: row;
   float= right;
-  margin= 20px;
+  margin-right= 40px;
 }
 
 p {
