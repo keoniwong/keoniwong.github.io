@@ -19,6 +19,11 @@ h4{
   border: 2px grey;
 }
 
+.list-img{
+  float= right;
+  margin= 20px;
+}
+
 p {
   color: blue;
   font-family: 'Roboto', sans-serif;
