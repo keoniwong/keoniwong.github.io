@@ -21,10 +21,11 @@ h4{
 
 div {
   display: flex;
-  flex-direction: row;
+  
 }
 
-.list-img{
+.list-img {
+  flex-direction: row;
   float= right;
   margin= 20px;
 }
@@ -32,6 +33,7 @@ div {
 p {
   color: blue;
   font-family: 'Roboto', sans-serif;
+  background-color: white;
 
 }
 
