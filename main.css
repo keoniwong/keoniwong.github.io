@@ -25,7 +25,8 @@ div {
 
 .list-img {
   float= right;
-  margin-right= 40px;
+  right= 30px;
+  border= 20px;
 }
 
 p {
