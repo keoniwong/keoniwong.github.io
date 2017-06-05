@@ -21,12 +21,14 @@ h4{
 
 div {
   display: inline-block;
-  text-align: center;
 }
 
 .list-img {
-  float= right;
   margin= 20px;
+}
+
+#uno {
+  float:right;
 }
 
 p {
