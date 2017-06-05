@@ -20,16 +20,12 @@ h4{
 }
 
 div {
-  display: flex;
-  flex-direction: row;
+  display: inline-block;
 }
 
 .list-img {
-  margin= 20px;
-}
-
-#uno {
   float:right;
+  margin= 20px;
 }
 
 p {
