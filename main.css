@@ -19,6 +19,11 @@ h4{
   border: 2px grey;
 }
 
+div {
+  display: flex;
+  flex-direction: row;
+}
+
 .list-img{
   float= right;
   margin= 20px;
