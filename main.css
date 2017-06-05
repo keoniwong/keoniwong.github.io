@@ -20,7 +20,8 @@ h4{
 }
 
 div {
-  display: inline-block;
+  display: flex;
+  flex-direction: row;
 }
 
 .list-img {
