@@ -95,6 +95,22 @@ p{
   flex-flow: column;
 }
 
+
+.flex-container {
+	display: flex;
+	flex-flow: column; 
+	justify-content: space-around;
+	
+	margin: 0;
+	padding: 0;
+}
+
+.flex-container1{
+	display: flex;
+	flex-flow: column; 
+	justify-content: space-around;
+}
+	
   #one{
     width: 100%;
   }
