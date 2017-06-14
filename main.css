@@ -79,7 +79,7 @@ p{
   height: 100%;  
 }
 
-@media (max-width: 520px) {
+@media (max-width: 800px) {
   
 .flex-container {
 	display: flex;
